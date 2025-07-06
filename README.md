@@ -30,7 +30,7 @@ Esta documentación tiene como objetivo servir como una guía paso a paso para d
 Cada capítulo corresponde a una alternativa de despliegue:
 
 1. [Introducción y objetivos](../README.md)
-2. [Requisitos previos](docs/02-requisitos.md)
+2. [Requisitos previos](docs/02_requisitos.md)
 
 ---
 
