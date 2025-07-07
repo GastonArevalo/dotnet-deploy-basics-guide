@@ -29,7 +29,7 @@ Esta documentación tiene como objetivo servir como una guía paso a paso para d
 
 Cada capítulo corresponde a una alternativa de despliegue:
 
-1. [Introducción y objetivos](../README.md)
+1. [Introducción y objetivos](#user-content-despliegue-de-apis-aspnet-core---guía-completa)
 2. [Requisitos previos](docs/02_requisitos.md)
 
 ---
